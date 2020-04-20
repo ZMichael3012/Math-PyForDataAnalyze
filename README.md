@@ -1,2 +1,2 @@
 # Math-PyForDataAnalyze
-The first course of DS specialisation (MIPT&amp;ШАД)
+The first course of DS specialisation (MIPT&Yandex)
